@@ -60,7 +60,7 @@ export function getFunName() {
         "worried"
     ];
 
-  const nouns = [
+    const nouns = [
         "women",
         "men",
         "children",
